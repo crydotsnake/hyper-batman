@@ -8,6 +8,14 @@ This is a port of the [Batman iTerm Color Scheme](https://github.com/mbadolato/i
 npm i @crydotsnake/hyper-batman
 ```
 
+Add `@crydotsnake/hyper-batman` to your `.hyper.js` plugins:
+
+```json
+plugins: [
+        '@crydotsnake/hyper-batman'
+    ],
+```    
+
 ## Demo
 
 ![Demo](https://github.com/crydotsnake/hyper-batman/blob/main/demo.png?raw=true)
