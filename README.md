@@ -10,7 +10,7 @@ npm i @crydotsnake/hyper-batman
 
 Add `@crydotsnake/hyper-batman` to your `.hyper.js` plugins:
 
-```json
+```js
 plugins: [
         '@crydotsnake/hyper-batman'
     ],
