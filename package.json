@@ -1,5 +1,5 @@
 {
-  "name": "hyper-batman",
+  "name": "@crydotsnake/hyper-batman",
   "version": "1.0.0",
   "description": "The official iTerm Batman theme now for Hyper",
   "main": "index.js",
